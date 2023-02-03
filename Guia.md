@@ -1,3 +1,5 @@
+Este documento solo esta hecha como base para terminar de escribir esta guia en el lenguaje de markdown
+
 <!-- headings -->
 # Heading 1
 ## Heading 2
