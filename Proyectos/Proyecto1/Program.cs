@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int entero  = 1;
+            Console.WriteLine(entero);
         }
     }
 }

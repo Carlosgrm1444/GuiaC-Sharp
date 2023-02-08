@@ -1,0 +1,15 @@
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\bin\Debug\net6.0\Proyecto1.exe
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\bin\Debug\net6.0\Proyecto1.deps.json
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\bin\Debug\net6.0\Proyecto1.runtimeconfig.json
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\bin\Debug\net6.0\Proyecto1.dll
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\bin\Debug\net6.0\Proyecto1.pdb
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\obj\Debug\net6.0\Proyecto1.csproj.AssemblyReference.cache
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\obj\Debug\net6.0\Proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\obj\Debug\net6.0\Proyecto1.AssemblyInfoInputs.cache
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\obj\Debug\net6.0\Proyecto1.AssemblyInfo.cs
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\obj\Debug\net6.0\Proyecto1.csproj.CoreCompileInputs.cache
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\obj\Debug\net6.0\Proyecto1.dll
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\obj\Debug\net6.0\refint\Proyecto1.dll
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\obj\Debug\net6.0\Proyecto1.pdb
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\obj\Debug\net6.0\Proyecto1.genruntimeconfig.cache
+F:\Git\GuiaC-Sharp\Proyectos\Proyecto1\obj\Debug\net6.0\ref\Proyecto1.dll

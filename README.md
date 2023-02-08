@@ -8,3 +8,5 @@ La manera en la que desarrollaremos nuestro aprendizaje como club sera la siguie
 La primera fase consistira en la programacion basica, la cual sera explicada en este apartado, habran actividades conforme cada tema explicado, las cuales deberan realizar y guardar como evidencia para el progreso del club, conforme vallamos avanzando se iran poniendo pruebas para pasar a otras fases y otro tipo de proyectos en equipo.
 
 Despues de la programacion basica empezaremos a ver el desarrollo de videojuegos como primer rama del club, conforme pase el tiempo expanderemos estas ramas segun el avance del club, empezando con las de dibujo y audio, seguido de las de electronica, robotica, modelado 3d, etc.
+
+Hay que aclarar que esta guia aun esta en fases tempranas de desarrollo, por lo que cualquier error o sugerencia te pedimos de favor que la comuniques a los administradores
