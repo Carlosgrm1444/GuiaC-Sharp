@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CPwfylMOq+6A5sssWUvVlzinxYk4mY1jQUSYUb1twVX9Mw5SSsWdcfHl9VUZ22LipELRmM97GGIuOMM4MOG9SA==",
+  "dgSpecHash": "OJ8rdpA2hXU4psLmEgblN1yEkbQ45AnynIIiQX/pqgKOvdUO9X6YY6M56/RkMlmCq9/V/wHxywxoIkzKn/Ok3Q==",
   "success": true,
-  "projectFilePath": "F:\\Git\\GuiaC-Sharp\\Proyectos\\Proyecto1\\Proyecto1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "G:\\repos\\Me\\GuiaC-Sharp\\Proyectos\\Proyecto1\\Proyecto1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\felin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\felin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\felin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
   "logs": []
 }
