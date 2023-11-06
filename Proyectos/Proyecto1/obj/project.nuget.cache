@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OJ8rdpA2hXU4psLmEgblN1yEkbQ45AnynIIiQX/pqgKOvdUO9X6YY6M56/RkMlmCq9/V/wHxywxoIkzKn/Ok3Q==",
+  "dgSpecHash": "5S+A5Lsbfx/QKwh8CuBdJ/R+Wa6LcFCQbR1LWbDKcJo1+ym8VAFwjbaFWsuHvjczYEws8+IHtVJcFPszL/8pBw==",
   "success": true,
-  "projectFilePath": "G:\\repos\\Me\\GuiaC-Sharp\\Proyectos\\Proyecto1\\Proyecto1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\felin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
-    "C:\\Users\\felin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
-    "C:\\Users\\felin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
-    "C:\\Users\\felin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\S.O\\Documents\\GitHub\\GuiaC-Sharp\\Proyectos\\Proyecto1\\Proyecto1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
